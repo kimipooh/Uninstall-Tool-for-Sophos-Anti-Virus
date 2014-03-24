@@ -16,8 +16,9 @@ How to use it
 3. Right-click (Ctrl+Click) "Uninstall_SophosAntiVirus.app" icon in the extracted folder and select "Open" context menu.
 4. Click on "OK" button.
 
-Step 3-4 operations are required by the current MacOS for the security countermeasure to open unauthorized program files.
+Step 3-4 operations are required by the current MacOS (MacOS 10.7 or later) for the security countermeasure to open unauthorized program files.
 
 
 Pubished on March 13, 2014.
+
 Fixed Readme  on March 24, 2014
